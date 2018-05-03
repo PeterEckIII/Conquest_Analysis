@@ -3,3 +3,7 @@ __pycache__/
 pip-log.txt
 pip-delete-this-directory.txt
 *.pyc
+.xlsx
+.xls
+.csv
+
